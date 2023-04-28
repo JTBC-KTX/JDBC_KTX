@@ -1,6 +1,10 @@
 package com.java.common;
 
-public class location {
-	
-
+public enum location {
+	SEOUL,
+	GANGNEUNG,
+	DAEGEON,
+	GWANGJU,
+	BUSAN,
+	ALL
 }
